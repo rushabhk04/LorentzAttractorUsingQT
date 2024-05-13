@@ -17,10 +17,10 @@
    <widget class="QGroupBox" name="groupBox">
     <property name="geometry">
      <rect>
-      <x>70</x>
-      <y>50</y>
-      <width>741</width>
-      <height>601</height>
+      <x>610</x>
+      <y>410</y>
+      <width>201</width>
+      <height>241</height>
      </rect>
     </property>
     <property name="title">
@@ -156,6 +156,16 @@
       </widget>
      </item>
     </layout>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>20</y>
+      <width>411</width>
+      <height>51</height>
+     </rect>
+    </property>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">

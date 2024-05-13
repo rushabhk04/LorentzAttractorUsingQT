@@ -1,6 +1,7 @@
 #include "mainwindow.h"
-
 #include <QApplication>
+#include <QtCharts/QtCharts>
+#include <QtDataVisualization/QtDataVisualization>
 
 int main(int argc, char *argv[])
 {
