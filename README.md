@@ -1,4 +1,4 @@
-# Lorentz Attractor Using Qt
+# LorentzVista
 
 This project provides a responsive and interactive UI using Qt C++ to visualize the Lorentz attractor, aiding in the study of complex energy heat designs. Developed to address the challenges of creating an intuitive interface for exploring chaotic systems, this project serves as a termination project, showcasing the application of Qt C++ for academic and research purposes.
 
